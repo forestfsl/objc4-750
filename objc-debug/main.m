@@ -7,6 +7,7 @@
 
 #import <Foundation/Foundation.h>
 #import "TestObject.h"
+#import <objc/runtime.h>
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
